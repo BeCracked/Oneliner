@@ -1,0 +1,1 @@
+This is a linebreak with a hyphen because we do not like to have hyphenated words where they should not be. But we do like them where they should ab-solutely be. Addtionally here is a line without any line break or additional white spaces. Leading spaces should also be removed. As well as trailing spaces. So lets see how this is going.
